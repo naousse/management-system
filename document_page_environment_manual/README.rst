@@ -6,7 +6,7 @@
 Environment Manual
 ==================
 
-This module adds a menu Environment Manual and a wiki document page category.
+This module provides an Environment Manual Template.
 
 Installation
 ============
@@ -21,10 +21,10 @@ No configuration required.
 Usage
 =====
 
-To use this module, you need to:
+To enter your information security manual, you need to:
 
-* go to Management Systems  > Documentation > Manuals
-* Create a new page and select the environment category.
+* go to Management Systems > Documentation > Manuals
+* Create a new page and select the Environment category.
 
 .. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
    :alt: Try me on Runbot
@@ -33,7 +33,7 @@ To use this module, you need to:
 Known issues / Roadmap
 ======================
 
-* None
+* Report any issue or ideas to https://github.com/OCA/management-system/issues
 
 Bug Tracker
 ===========
